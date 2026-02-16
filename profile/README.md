@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<!--
-![Open Source at Structegra](https://github.com/structegra/.github/images/structegra_full_bg.png) 
--->
+![Open Source at Structegra](/images/structegra_full_bg.png) 
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
